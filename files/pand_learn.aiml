@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>HOLA</pattern>
+	<template>Como estas</template>
+</category>
+
+<category>
+	<pattern>BIEN</pattern>
+	<template>que bueno</template>
+</category>
+
+<category>
+	<pattern>BIEN</pattern>
+	<template>Necesitas algo?</template>
+</category>
+
+<category>
+	<pattern>SI</pattern>
+	<template>En que puedo ayudarte?</template>
+</category>
+
+</aiml>
